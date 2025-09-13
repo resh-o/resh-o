@@ -1,22 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Reshaan;AI+Engineer+%26+Space+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Reshaan;Engineer+%26+Space+Enthusiast;Building+the+Future" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-> **Engineer** passionate about **Artificial Intelligence**, **Space** and **Full-Stack Development**
+> Relentlessly curious and ambitious, I’m building toward a future where **Artificial Intelligence**, **technology** and **security** reshape the world.
 
-🔭 **Currently Building:** [Sentinel](https://github.com/resh-o/sentinel) - AI-powered monitoring system  
-🌱 **Learning:** Advanced AI Integration & Space Tech Applications  
-🤝 **Open to:** AI collaborations and Web Apllication projects  
-⚡ **Fun Fact:** Dreaming of coding in zero gravity! 🚀
+🔭 **Currently Building:** [Sentinel](https://github.com/resh-o/sentinel) - AI-powered monitoring system   
+🤝 **Open to:** AI collaborations and Startup Projects
+⚡ **Fun Fact:** Dreaming of positively impacting the future
 
 ## 💻 Tech Stack
 
 <div align="center">
 
 **Languages & Frameworks**
-  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,18 +37,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=resh-o&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resh-o&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=resh-o&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🌐 Let's Connect
-
 <div align="center">
-  <a href="https://linkedin.com/in/reshaan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-  </a>
   <a href="https://twitter.com/reshxxn" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
   </a>
 </div>
