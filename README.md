@@ -4,11 +4,18 @@
 
 ## 🚀 About Me
 
-> Relentlessly curious and ambitious, I’m building toward a future where **Artificial Intelligence**, **technology** and **security** reshape the world.
+> Relentlessly curious and ambitious, I’m building toward a future where **Artificial Intelligence**, **Technology** and **Security** reshape the world.
 
-🔭 **Currently Building:** [Sentinel](https://github.com/resh-o/sentinel) - AI-powered monitoring system   
+🔭 **Currently Building:** [Sentinel](https://github.com/resh-o/sentinel) 
 🤝 **Open to:** AI collaborations and Startup Projects
 ⚡ **Fun Fact:** Dreaming of positively impacting the future
+
+## 📊 Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=resh-o&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resh-o&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ## 💻 Tech Stack
 
@@ -28,14 +35,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-007ACC?style=for-the-badge&logo=azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-</div>
-
-## 📊 Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=resh-o&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resh-o&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
