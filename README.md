@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 > Relentlessly curious and ambitious, I’m building toward a future where **Artificial Intelligence**, **Technology** and **Security** reshape the world.
-🔭 **Currently Building:** [Sentinel](https://github.com/resh-o/sentinel) 
+
 
 <div align="center">
   
