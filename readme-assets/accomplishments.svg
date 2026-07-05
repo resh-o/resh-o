@@ -1,0 +1,20 @@
+<svg viewBox="0 0 900 210" width="900" height="210" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="900" height="210" rx="10" fill="#0A0E1A"/>
+  <rect x="0.5" y="0.5" width="899" height="209" rx="10" fill="none" stroke="#232F4B" stroke-width="1"/>
+  <path d="M 16 25.6 L 16 16 L 25.6 16" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 884 25.6 L 884 16 L 874.4 16" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 16 184.4 L 16 194 L 25.6 194" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 884 184.4 L 884 194 L 874.4 194" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+
+  <text x="450" y="42" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" letter-spacing="3" fill="#8892B0">ACCOMPLISHMENTS</text>
+
+  <rect x="50.0" y="66" width="380" height="90" rx="8" fill="#111827" stroke="#232F4B" stroke-width="1"/>
+  <rect x="50.0" y="66" width="3" height="90" rx="1.5" fill="#4C7FFF"/>
+  <text x="74.0" y="104" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="17" font-weight="700" fill="#EAF0FF" letter-spacing="0.5">HACKATHON WINNER</text>
+  <text x="74.0" y="130" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#8892B0">First place finish, university hackathon</text>
+
+  <rect x="470.0" y="66" width="380" height="90" rx="8" fill="#111827" stroke="#232F4B" stroke-width="1"/>
+  <rect x="470.0" y="66" width="3" height="90" rx="1.5" fill="#4C7FFF"/>
+  <text x="494.0" y="104" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="17" font-weight="700" fill="#EAF0FF" letter-spacing="0.5">98% QUOTE ACCURACY</text>
+  <text x="494.0" y="130" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#8892B0">Tradesman quoting tool, results in under 30 seconds</text>
+</svg>

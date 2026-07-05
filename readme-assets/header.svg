@@ -1,0 +1,17 @@
+<svg viewBox="0 0 900 250" width="900" height="250" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="900" height="250" rx="10" fill="#0A0E1A"/>
+  <rect x="0.5" y="0.5" width="899" height="249" rx="10" fill="none" stroke="#232F4B" stroke-width="1"/>
+  <path d="M 16 25.6 L 16 16 L 25.6 16" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 884 25.6 L 884 16 L 874.4 16" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 16 224.4 L 16 234 L 25.6 234" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 884 224.4 L 884 234 L 874.4 234" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+
+  <g><circle cx="120" cy="60" r="1.6" fill="#7DA6FF" opacity="0.55"/><circle cx="180" cy="40" r="1.6" fill="#7DA6FF" opacity="0.55"/><circle cx="250" cy="75" r="1.6" fill="#7DA6FF" opacity="0.55"/><circle cx="770" cy="55" r="1.6" fill="#7DA6FF" opacity="0.55"/><circle cx="710" cy="90" r="1.6" fill="#7DA6FF" opacity="0.55"/><circle cx="650" cy="45" r="1.6" fill="#7DA6FF" opacity="0.55"/><circle cx="150" cy="185" r="1.6" fill="#7DA6FF" opacity="0.55"/><circle cx="210" cy="205" r="1.6" fill="#7DA6FF" opacity="0.55"/><circle cx="760" cy="190" r="1.6" fill="#7DA6FF" opacity="0.55"/><circle cx="700" cy="215" r="1.6" fill="#7DA6FF" opacity="0.55"/><line x1="120" y1="60" x2="180" y2="40" stroke="#7DA6FF" stroke-width="0.6" opacity="0.3"/><line x1="180" y1="40" x2="250" y2="75" stroke="#7DA6FF" stroke-width="0.6" opacity="0.3"/><line x1="770" y1="55" x2="710" y2="90" stroke="#7DA6FF" stroke-width="0.6" opacity="0.3"/><line x1="710" y1="90" x2="650" y2="45" stroke="#7DA6FF" stroke-width="0.6" opacity="0.3"/><line x1="150" y1="185" x2="210" y2="205" stroke="#7DA6FF" stroke-width="0.6" opacity="0.3"/><line x1="760" y1="190" x2="700" y2="215" stroke="#7DA6FF" stroke-width="0.6" opacity="0.3"/></g>
+  <circle cx="450" cy="70" r="2.4" fill="#7DA6FF">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="450" y="128" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="40" font-weight="700" letter-spacing="6" fill="#EAF0FF">RESHAAN GOVENDER</text>
+  <text x="450" y="163" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#7DA6FF" letter-spacing="0.5">Software developer building practical AI tools.</text>
+  <line x1="330" y1="185" x2="570" y2="185" stroke="#232F4B" stroke-width="1"/>
+  <text x="450" y="212" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8892B0" letter-spacing="1.5">FULL STACK DEVELOPMENT&#160;&#160;&#183;&#160;&#160;AI TOOLING&#160;&#160;&#183;&#160;&#160;SYSTEMS DESIGN</text>
+</svg>

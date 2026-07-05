@@ -1,25 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Reshaan;Engineer+%26+Space+Enthusiast;Building+the+Future" alt="Typing SVG" />
-</div>
+<div align="center"><img src="readme-assets/header.svg" width="900" alt="Reshaan Govender"/></div>
 
-## 🚀 About Me
-> Relentlessly curious and ambitious, I’m building toward a future where **Artificial Intelligence**, **Technology** and **Security** reshape the world.
-
+<div align="center"><img src="readme-assets/accomplishments.svg" width="900" alt="Accomplishments"/></div>
 
 <div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-1572B6?style=for-the-badge&logo=csharp&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-1572B6?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <img src="https://streak-stats.demolab.com?user=resh-o&background=0A0E1A&border=232F4B&ring=4C7FFF&fire=7DA6FF&currStreakLabel=EAF0FF&currStreakNum=EAF0FF&sideLabels=8892B0&sideNums=EAF0FF&dates=8892B0&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=resh-o&show_icons=true&hide_title=true&bg_color=0A0E1A&title_color=7DA6FF&text_color=EAF0FF&icon_color=4C7FFF&border_color=232F4B&hide_border=false&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=resh-o&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<div align="center"><img src="readme-assets/stack.svg" width="900" alt="Tech Stack"/></div>
+
+<div align="center"><img src="readme-assets/focus.svg" width="900" alt="Currently Building"/></div>
+
+<div align="center"><img src="readme-assets/connect.svg" width="900" alt="Connect"/></div>

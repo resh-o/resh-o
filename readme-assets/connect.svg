@@ -1,0 +1,27 @@
+<svg viewBox="0 0 900 130" width="900" height="130" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="900" height="130" rx="10" fill="#0A0E1A"/>
+  <rect x="0.5" y="0.5" width="899" height="129" rx="10" fill="none" stroke="#232F4B" stroke-width="1"/>
+  <path d="M 16 25.6 L 16 16 L 25.6 16" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 884 25.6 L 884 16 L 874.4 16" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 16 104.4 L 16 114 L 25.6 114" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+  <path d="M 884 104.4 L 884 114 L 874.4 114" fill="none" stroke="#4C7FFF" stroke-width="1.5" opacity="0.8"/>
+
+  <text x="450" y="40" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" letter-spacing="3" fill="#8892B0">CONNECT</text>
+
+  <rect x="175.0" y="56" width="260" height="56" rx="8" fill="#111827" stroke="#4C7FFF" stroke-width="1" opacity="0.9"/>
+
+  <circle cx="209.0" cy="84.0" r="12" fill="none" stroke="#7DA6FF" stroke-width="1.4"/>
+  <ellipse cx="209.0" cy="84.0" rx="5.04" ry="12" fill="none" stroke="#7DA6FF" stroke-width="1.2"/>
+  <line x1="197.0" y1="84.0" x2="221.0" y2="84.0" stroke="#7DA6FF" stroke-width="1.2"/>
+
+  <text x="323.0" y="80" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" letter-spacing="2" fill="#7DA6FF">PORTFOLIO</text>
+  <text x="323.0" y="98" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#EAF0FF">reshaan.com</text>
+
+  <rect x="465.0" y="56" width="260" height="56" rx="8" fill="#111827" stroke="#4C7FFF" stroke-width="1" opacity="0.9"/>
+
+  <rect x="488.0" y="73.0" width="22" height="22" rx="4" fill="#4C7FFF"/>
+  <text x="499.0" y="90.16" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13.64" font-weight="700" fill="#0A0E1A">in</text>
+
+  <text x="613.0" y="80" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12.5" letter-spacing="2" fill="#7DA6FF">LINKEDIN</text>
+  <text x="613.0" y="98" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#EAF0FF">in/reshaan</text>
+</svg>
