@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=resh-o&background=0A0E1A&border=232F4B&ring=4C7FFF&fire=7DA6FF&currStreakLabel=EAF0FF&currStreakNum=EAF0FF&sideLabels=8892B0&sideNums=EAF0FF&dates=8892B0&hide_border=false" alt="GitHub Streak Stats" />
-
   <img src="readme-assets/languages.svg" alt="Languages"/>
 </div>
 
